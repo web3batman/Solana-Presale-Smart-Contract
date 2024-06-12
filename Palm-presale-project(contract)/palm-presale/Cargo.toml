@@ -1,0 +1,24 @@
+[package]
+name = "palm-presale"
+version = "0.1.0"
+description = "Created with Anchor"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "palm_presale"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+solana-program = "<1.17.0"
+anchor-lang = {version = "0.29.0", features = ["init-if-needed"]}
+anchor-spl = "0.29.0"
+toml_datetime = "=0.6.1"
+ahash = "=0.8.6"
+mpl-token-metadata = { version="1.2.5", features = [ "no-entrypoint" ] }
