@@ -26,8 +26,8 @@ Before you begin, make sure you have the following tools installed:
 1. **Installation:** Clone the repository and install dependencies.
 
    ```bash
-   git clone https://github.com/albywok/spl-vending-machine.git
-   cd spl-vending-machine
+   git clone https://github.com/skeleton1009/palm-presale.git
+   cd palm-presale
    yarn
    ```
 
