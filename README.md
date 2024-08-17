@@ -1,4 +1,4 @@
-# Solana Token Presale SmartContract
+# Solana Presale Smart Contract
 
 Smart contract designed for facilitating the sale of SPL tokens with additional features, including a presale mechanism and allocation tickets. The contract is built using the Anchor framework.
 ## Key Features
