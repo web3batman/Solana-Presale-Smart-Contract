@@ -52,8 +52,4 @@ Before you begin, make sure you have the following tools installed:
 
 You can reach out me:
 
-telegram: @Ruby0107
-
-discord: skel1009
-
-twitter: https://x.com/ewan_tomson
+telegram: @Takhi77
