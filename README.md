@@ -32,8 +32,8 @@ Before you begin, make sure you have the following tools installed:
 1. **Installation:** Clone the repository and install dependencies.
 
    ```bash
-   git clone https://github.com/skeleton1009/palm-presale.git
-   cd palm-presale
+   git clone https://github.com/Takhi77/Solana-presale-smart-contract.git
+   cd Solana-presale-smart-contract
    yarn
    ```
 
